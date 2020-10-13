@@ -15,8 +15,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lsx-xavier/happy-nlw3">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lsx-xavier/happy-nlw3?color=%2304D361">
-  <img alt="Stargazers" src="https://img.shields.io/github/stars/lsx-xavier/happy-nlw3?style=social">
   <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/lsx-xavier/happy-nlw3">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/lsx-xavier/happy-nlw3?style=social">  
 </p>
 
 <h1 align="center">
