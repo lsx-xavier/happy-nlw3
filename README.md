@@ -19,6 +19,10 @@
   <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/lsx-xavier/happy-nlw3">
 </p>
 
+<h1 align="center">
+    <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/capa.png" />
+</h1>
+
 
 ## 💻 Sobre o projeto
 
@@ -61,28 +65,28 @@ Plataforma mobile 📱:
 Tela de localização e cadastro da ong:
 
 <p style="display: flex; align-items: flex-start; justify-content: center;" align="center">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/mapa-plataformaMobile.svg" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/mapa-plataformaMobile.png" width="200px">
 
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/create-ong-plataformaMobile.svg" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/create-ong-plataformaMobile.png" width="200px">
 </p>
 
 Tela de perfil da ong:
 <p align="center">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/perfil-ong-plataformaMobile.svg" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/perfil-ong-plataformaMobile.png" width="200px">
 </p>
 
 ### Web 💻
 
 Tela de localização e cadastro da ong:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/mapa-plataformaWeb.svg" width="400px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/mapa-plataformaWeb.png" width="400px">
 
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/create-ong-plataformaWeb.svg" width="400px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/create-ong-plataformaWeb.png" width="400px">
 </p>
 
 Tela de perfil da ong:
 <p align="center">  
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/perfil-ong-plataformaWeb.svg" width="400px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/perfil-ong-plataformaWeb.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
