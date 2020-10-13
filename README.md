@@ -58,17 +58,16 @@ Plataforma mobile 📱:
 </a>
 
 ### Mobile 📱
-
+Tela de localização e cadastro da ong:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  Tela de localização e cadastro da ong:
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/mapa-plataformaMobile.svg" width="400px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/mapa-plataformaMobile.svg" width="200px">
 
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/create-ong-plataformaMobile.svg" width="400px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/create-ong-plataformaMobile.svg" width="200px">
 </p>
 
+Tela de perfil da ong:
 <p align="center">
-  Tela de perfil da ong:
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/perfil-ong-plataformaMobile.svg" width="400px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/perfil-ong-plataformaMobile.svg" width="200px">
 </p>
 
 ### Web 💻
