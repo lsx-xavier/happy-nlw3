@@ -11,12 +11,12 @@
   <img alt="FrontEnd Web" src="https://img.shields.io/badge/web-ReactJS-59e3ff"> 
   <img alt="FrontEnd Mobile" src="https://img.shields.io/badge/mobile-React%20Native-3ca1b5"> 
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/nlw1">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lsx-xavier/happy-nlw3">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/nlw1">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
-  <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/nlw1?style=social">
-  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/lsx-xavier/ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lsx-xavier/happy-nlw3">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lsx-xavier/happy-nlw3?color=%2304D361">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/lsx-xavier/happy-nlw3?style=social">
+  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/lsx-xavier/happy-nlw3">
 </p>
 
 
@@ -59,7 +59,8 @@ Plataforma mobile 📱:
 
 ### Mobile 📱
 Tela de localização e cadastro da ong:
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+
+<p style="display: flex; align-items: flex-start; justify-content: center;" align="center">
   <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/mapa-plataformaMobile.svg" width="200px">
 
   <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/create-ong-plataformaMobile.svg" width="200px">
@@ -72,15 +73,15 @@ Tela de perfil da ong:
 
 ### Web 💻
 
+Tela de localização e cadastro da ong:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  Tela de localização e cadastro da ong:
   <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/mapa-plataformaWeb.svg" width="400px">
 
   <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/create-ong-plataformaWeb.svg" width="400px">
 </p>
 
-<p align="center">
-  Tela de perfil da ong:
+Tela de perfil da ong:
+<p align="center">  
   <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/perfil-ong-plataformaWeb.svg" width="400px">
 </p>
 
