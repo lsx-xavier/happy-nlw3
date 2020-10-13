@@ -20,7 +20,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/capa.png" />
+    <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./.github/Capa.png" />
 </h1>
 
 
