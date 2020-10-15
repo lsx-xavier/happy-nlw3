@@ -98,6 +98,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React][reactjs]
 - [React Native][rn]
 - [TypeScript][typescript]
+- [Sqlite][sqlite]
 
 
 ## 🚀 Como executar o projeto
@@ -128,7 +129,7 @@ $ cd server
 $ npm install ou yarn install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server ou yarn run dev:server
+$ npm run dev ou yarn dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
