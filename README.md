@@ -179,6 +179,10 @@ Este projeto esta sobe a licença MIT.
 - Estudo de Node.js, React Js e React Native.
 - Estudo realizado junto com a Next Level Week da rocketseat!
 
+# Desafios para melhorar a aplicação
+
+https://www.notion.so/Vers-o-2-0-do-Happy-526bee4976c748e380ee56c22940688f
+
 # Entrar em contato!
 
 <a href="https://www.linkedin.com/in/lucas-xavier-588b67a6/" target="_blank" >
